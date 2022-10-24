@@ -2,6 +2,7 @@
 
 - 不带年份版位于 `without-year.svg`。
 - 带年份版位于 `outputs` 目录下。
+- 所有 SVG 都有同名的 PNG 版本。
 
 ## 制作带年份版 logo 的方法
 
