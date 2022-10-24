@@ -1,6 +1,9 @@
 # Hackergame logo
 
-## 制作不同年份 logo 的方法
+- 不带年份版位于 `without-year.svg`。
+- 带年份版位于 `outputs` 目录下。
+
+## 制作带年份版 logo 的方法
 
 1. 安装 Inkscape。
 1. 安装字体 `BAUHS93.TTF`。
